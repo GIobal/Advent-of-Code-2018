@@ -69,7 +69,7 @@ Here are other examples:
   
 **What is the first frequency your device reaches twice?**
 
-==== Part 2 answer
+#### Part 2 answer
 
 The second part of this challenge didn't build well upon my first answer, so I had to start 
 from scratch. I first read the input file and loop through its contents line by line.
