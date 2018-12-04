@@ -1,4 +1,4 @@
-## Day 01: Inventory Management System
+## Day 02: Inventory Management System
 
 #### Challenge description - https://adventofcode.com/2018/day/2
 
@@ -70,13 +70,13 @@ boxes full of prototype fabric.
 The boxes will have IDs which differ by exactly one character at the same
 position in both strings. For example, given the following box IDs:
 
-`abcde
-fghij
-klmno
-pqrst
-fguij
-axcye
-wvxyz`
+`abcde`<br/>
+`fghij`<br/>
+`klmno`<br/>
+`pqrst`<br/>
+`fguij`<br/>
+`axcye`<br/>
+`wvxyz`
 
 The IDs `abcde` and `axcye` are close, but they differ by two characters (the
 second and fourth). However the IDs `fghij` and `fguij` differ by exactly one
