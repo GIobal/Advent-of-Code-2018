@@ -1,4 +1,4 @@
-## Day 03: Chronal Calibration
+## Day 03: No Matter How You Slice It
 
 #### Challenge description - https://adventofcode.com/2018/day/3
 
